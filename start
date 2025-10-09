@@ -1,0 +1,1 @@
+jupyter lab --notebook-dir=. --File-Browser.selected_paths=['LOSC_Event_tutorial.ipynb']
