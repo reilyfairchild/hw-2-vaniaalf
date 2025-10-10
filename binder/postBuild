@@ -1,4 +1,0 @@
-echo "launching jupyter lab with main notebook open"
-# The default launch command in Binder is 'jupyter lab', so we override it
-# with the exact command to open your specific notebook.
-echo "jupyter lab --notebook-dir=. --FileBrowser.selected_paths=['LOSC_Event_tutorial.ipynb']" > /usr/local/bin/start-notebook.sh
