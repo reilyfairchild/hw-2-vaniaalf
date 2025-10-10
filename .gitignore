@@ -20,4 +20,5 @@ GW150914_template_shifted.wav
 GW150914_template_whiten.wav
 start
 .ipynb_checkpoints/
-
+*.png
+*.wav
